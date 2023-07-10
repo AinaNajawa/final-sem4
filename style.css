@@ -1,0 +1,11 @@
+form{
+    padding-left: 500px;
+    padding-top: 200px;
+}
+body{
+    background-color: palegoldenrod;
+}
+table,tr, td{
+  border:1px solid black;
+}
+
